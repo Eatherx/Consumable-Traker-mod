@@ -1,4 +1,0 @@
-name = ConsumableTracker
-displayName = Consumable Tracker
-author = Eather99
-version = 1.1.2
